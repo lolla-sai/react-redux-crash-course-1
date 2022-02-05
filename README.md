@@ -1,5 +1,9 @@
 # react-redux-crash-course-1
 Crash course on redux with react. Redux is a state management solution in react.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
